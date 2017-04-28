@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.english.game;
+package com.webleaders.english.game;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

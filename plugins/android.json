@@ -8,10 +8,10 @@
     },
     "installed_plugins": {
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.english.game"
+            "PACKAGE_NAME": "com.webleaders.english.game"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.english.game"
+            "PACKAGE_NAME": "com.webleaders.english.game"
         }
     },
     "dependent_plugins": {}
